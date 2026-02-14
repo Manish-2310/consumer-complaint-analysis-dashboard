@@ -1,61 +1,55 @@
-# 📊 Consumer Complaint Analysis & Resolution Dashboard
+# 📊 Retail Sales Performance Dashboard (2022)
 
-## 📌 Project Overview
-This project analyzes financial consumer complaint data to identify trends, customer issues, and company response performance. The dashboard provides actionable insights to improve customer satisfaction and operational efficiency.
-
----
-
-## 🎯 Objectives
-- Analyze complaint patterns across products and companies
-- Identify high complaint categories
-- Evaluate timely response performance
-- Understand dispute behavior
+An interactive data analysis project built using Microsoft Excel to evaluate annual retail sales performance and generate business insights through visualization and dashboard reporting.
 
 ---
 
-## 🧾 Dataset
-- 14,000+ consumer complaint records
-- Includes company, product, issue, state, submission method, and resolution status.
+## 🚀 Project Summary
+This project analyzes 2022 retail sales data to understand customer purchasing behavior, regional performance, and product trends.  
+The goal was to convert raw transactional data into an interactive dashboard that supports business decision-making.
+
+The dashboard allows stakeholders to monitor KPIs, filter data dynamically, and identify revenue growth opportunities.
 
 ---
 
-## 🛠️ Technologies Used
+## 🎯 Key Objectives
+- Track annual sales performance
+- Identify profitable customer segments
+- Analyze regional contribution to revenue
+- Support marketing and sales strategy decisions
+- Create an easy-to-use business dashboard
+
+---
+
+## 🛠️ Tools & Technologies
 - Microsoft Excel
 - Pivot Tables & Pivot Charts
-- Data Cleaning
+- Slicers & Interactive Filters
+- Data Cleaning & Transformation
 - Exploratory Data Analysis (EDA)
-- Data Visualization
-
----
-
-## 📊 Key Features
-✅ Interactive Dashboard  
-✅ Product-wise complaint analysis  
-✅ State-wise distribution  
-✅ Timely response tracking  
-✅ Customer dispute insights  
+- Business Intelligence Visualization
 
 ---
 
 ## 📈 Key Insights
-- Credit-related products generated highest complaints.
-- Majority complaints submitted via web channels.
-- Some companies showed delayed responses.
-- Regional complaint concentration identified.
+- Women aged **30–49** contributed the highest sales share.
+- Major revenue originated from Maharashtra, Karnataka, and Uttar Pradesh.
+- Online marketplaces significantly influenced total sales performance.
 
 ---
 
-## 📷 Dashboard Preview
+## 💡 Business Impact
+Based on analysis, targeted marketing campaigns and promotional offers were recommended to increase customer engagement and overall sales growth.
+
+---
+
+---
+
+## 📸 Dashboard Preview
 ![Dashboard](images/dashboard_overview.png)
 
 ---
 
-## 🚀 Future Improvements
-- Machine Learning based dispute prediction
-- Power BI interactive dashboard
-- Automated reporting using Python
-
----
-
 ## 👩‍💻 Author
-**MANISH SHARMA**
+MANISH SHARMA
+

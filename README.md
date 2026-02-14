@@ -46,7 +46,7 @@ This project analyzes financial consumer complaint data to identify trends, cust
 ---
 
 ## 📷 Dashboard Preview
-(Add dashboard screenshot here)
+![Dashboard](images/dashboard_overview.png)
 
 ---
 
